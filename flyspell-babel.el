@@ -4,7 +4,7 @@
 ;; Copyright (C) 2004 P J Heslin
 ;;
 ;; Author: Peter Heslin <p.j.heslin@dur.ac.uk>
-;; URL: http://www.dur.ac.uk/p.j.heslin/Software/Emacs/Download/flyspell-babel.el
+;; URL: http://www.dur.ac.uk/p.j.heslin/Software/Emacs
 ;; Version: 3.2
 ;;
 ;; This program is free software; you can redistribute it and/or modify
